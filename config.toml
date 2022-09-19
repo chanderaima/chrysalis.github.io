@@ -1,0 +1,7 @@
+baseURL = "https://chrysalis.github.io"
+languageCode = "en-us"
+title = "Chrysalis"
+theme = "hugo-shopping-product-catalogue-simple"
+themesDir = "themes"
+[Params]
+description = ""
