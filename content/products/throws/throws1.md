@@ -22,5 +22,3 @@ Material: 100% cotton with fringes, medium weight making it ideal for all season
 Color:Available in beautiful colours, featuring fringed edges for a modern touch.
 
 Wash and Care : Machine wash separately in cold water on delicate; do not bleach; tumble dry on low; do not iron, press, or dry clean.
-
-This is a sample text.
