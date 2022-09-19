@@ -3867,6 +3867,13 @@ tbody.collapse.show {
     margin: auto;
 
 }
+
+.header-center {
+    text-align: center;
+    margin: auto;
+
+}
+
 .tab-content>.tab-pane {
     display: none
 }
