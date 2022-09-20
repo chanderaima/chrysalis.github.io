@@ -7,7 +7,7 @@
     "thumbnailImage": "img/Rubbered_Floor_Mats/floormats06.jpg",
     "actualPrice": 450,
     "comparePrice": null,
-    "inStock": true,
+    "inStock": false,
     "options": {
             "Color": ["Maroon"],
             "Size" : ["4x2 ft"]
