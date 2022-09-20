@@ -7,7 +7,7 @@
     "thumbnailImage": "img/Rubbered_Floor_Mats/floormats04.jpg",
     "actualPrice": 700,
     "comparePrice": null,
-    "inStock": true,
+    "inStock": false,
     "options": {
             "Color": ["Red"],
             "Size" : ["6x2 ft"]
