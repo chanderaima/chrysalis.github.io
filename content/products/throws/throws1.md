@@ -5,14 +5,13 @@
     "categories": ["Throws"],
     "images": ["img/", "img/throws/throws01.jpg"],
     "thumbnailImage": "img/throws/throws01.jpg",
-    "actualPrice": "₹ 1000",
+    "actualPrice": "₹ 600",
     "comparePrice": null,
     "inStock": true,
     "options": {},
     "variants": []
 }
 
-Total Dimensions (in inches): 51x51x63
 
 Our comfortable throw blankets are ideal for all seasons, as they are cozy and medium in weight.Can be used both indoor and outdoor.Drape the throw over a chair, the arm of your sofa or on your bed, and it will instantly add a relaxing atmosphere to your interiors.
 Use them as a bedspread, a picnic blanket, a throw for your sofa, or even as a baby blanket.It's amazing how many uses you can find for a blanket when they are in your home. They can cover your sofa to cosy up on date night or add some luxury to your bedroom as a bedspread. That's why we love it - the versatility.
