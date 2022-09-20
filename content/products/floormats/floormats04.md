@@ -7,7 +7,7 @@
     "thumbnailImage": "img/Rubbered_Floor_Mats/floormats12.jpg",
     "actualPrice": 450,
     "comparePrice": null,
-    "inStock": true,
+    "inStock": false,
     "options": {
             "Color": ["Brown"],
             "Size" : ["4x2 ft"]
