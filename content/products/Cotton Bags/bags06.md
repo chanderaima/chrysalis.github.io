@@ -7,7 +7,7 @@
     "thumbnailImage": "img/Bags/bags06.jpg",
     "actualPrice": 200,
     "comparePrice": null,
-    "inStock": true,
+    "inStock": false,
     "options": {
             "Color": ["Black"]
     }
