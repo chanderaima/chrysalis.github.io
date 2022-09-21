@@ -16,6 +16,8 @@
 Our comfortable throw blankets are ideal for all seasons, as they are cozy and medium in weight.Can be used both indoor and outdoor.Drape the throw over a chair, the arm of your sofa or on your bed, and it will instantly add a relaxing atmosphere to your interiors.
 Use them as a bedspread, a picnic blanket, a throw for your sofa, or even as a baby blanket.It's amazing how many uses you can find for a blanket when they are in your home. They can cover your sofa to cosy up on date night or add some luxury to your bedroom as a bedspread. That's why we love it - the versatility.
 
+Size (in inch):60x51 inches.
+
 Material: 100% cotton with fringes, medium weight making it ideal for all season.
 
 Color:Available in beautiful colours, featuring fringed edges for a modern touch.
