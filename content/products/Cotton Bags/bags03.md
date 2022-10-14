@@ -7,7 +7,7 @@
     "thumbnailImage": "img/Bags/bags03.jpg",
     "actualPrice": 250,
     "comparePrice": null,
-    "inStock": false,
+    "inStock": true,
     "options": {
             "Color": ["Dark Green"]
     }
