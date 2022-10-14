@@ -6,7 +6,7 @@
     "images": ["img/table_runners/runner06.jpg"],
     "thumbnailImage": "img/table_runners/runner06.jpg",
     "actualPrice": "₹ 700.00",
-    "inStock": true,
+    "inStock": false,
     "options": {},
     "variants": []
 }
