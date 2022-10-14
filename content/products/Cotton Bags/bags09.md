@@ -7,7 +7,7 @@
     "thumbnailImage": "img/Bags/bags09.jpg",
     "actualPrice": 250,
     "comparePrice": null,
-    "inStock": true,
+    "inStock": false,
     "options": {
             "Color": ["Colourful"]    }
 }
