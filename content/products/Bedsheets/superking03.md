@@ -7,7 +7,7 @@
     "images": ["img/bedsheets/bs03.jpg","img/bedsheets/13.jpg"],
     "thumbnailImage": "img/bedsheets/bs03.jpg",
     "actualPrice":900,
-    "inStock":true,
+    "inStock":false,
     "options": {
             "Color": ["Blue with Grey border"],
             "Size" : ["90x100cms"]
