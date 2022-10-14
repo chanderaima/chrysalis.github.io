@@ -1,5 +1,5 @@
 {
-    "title": "Throws Blue",
+    "title": "Throws",
     "date": "2018-05-12T15:48:00+05:30",
     "tags": ["Throws"],
     "categories": ["Throws"],
@@ -7,7 +7,7 @@
     "thumbnailImage": "img/throws/throws02.jpg",
     "actualPrice": "₹ 600",
     "comparePrice": null,
-    "inStock": true,
+    "inStock": false,
     "options": {},
     "variants": []
 }
