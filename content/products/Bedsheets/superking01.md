@@ -6,7 +6,7 @@
     "images": ["img/bedsheets/bs01.jpg","img/bedsheets/11.jpg"],
     "thumbnailImage": "img/bedsheets/bs01.jpg",
     "actualPrice": 900.00,
-    "inStock": true,
+    "inStock": false,
     "options": {
             "Color": ["Green and Black border"],
             "Size" : ["100x90cms"]
