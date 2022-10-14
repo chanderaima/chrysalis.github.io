@@ -6,7 +6,7 @@
     "images": ["img/bedsheets/bs09.jpg","img/bedsheets/18.jpg"],
     "thumbnailImage": "img/bedsheets/bs09.jpg",
     "actualPrice":900,
-    "inStock":true,
+    "inStock":false,
     "options": {
             "Color": ["White with Red border"],
             "Size" : ["100*90cms"]
