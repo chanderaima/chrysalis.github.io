@@ -1,12 +1,12 @@
 {
-    "title": "Blue with Grey order",
+    "title": "Blue with Grey border",
     "date": "2018-05-11T22:35:06+05:30",
     "tags": ["Wall Light", "ambience", "black", "black metal", "contemporary", "cool", "cozy", "edison bulb", "filament bulb", "glass", "green", "indoor", "light", "metal", "MODERN", "round", "rustic", "vintage", "white"],
     "categories": ["Bedsheets"],
     "images": ["img/bedsheets/bs10.jpg","img/bedsheets/17.jpg"],
     "thumbnailImage": "img/bedsheets/bs10.jpg",
     "actualPrice":900,
-    "inStock":true,
+    "inStock":false,
     "options": {
             "Color": ["Blue with Grey border"],
             "Size" : ["100*90cms"]
