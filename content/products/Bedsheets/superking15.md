@@ -6,7 +6,7 @@
     "images": ["img/bedsheets/bs15.jpg","img/bedsheets/23.jpg"],
     "thumbnailImage": "img/bedsheets/bs15.jpg",
     "actualPrice":900,
-    "inStock":true,
+    "inStock":false,
     "options": {
             "Color": ["Pink with Blue border"],
             "Size" : ["100*90cms"]
