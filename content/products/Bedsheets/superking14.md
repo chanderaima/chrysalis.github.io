@@ -6,7 +6,7 @@
     "images": ["img/bedsheets/bs14.jpg","img/bedsheets/22.jpg"],
     "thumbnailImage": "img/bedsheets/bs14.jpg",
     "actualPrice":900,
-    "inStock":true,
+    "inStock":false,
     "options": {
             "Color": ["Brown with Black border"],
             "Size" : ["100*90cms"]
