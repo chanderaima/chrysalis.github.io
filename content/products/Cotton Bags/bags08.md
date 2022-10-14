@@ -7,7 +7,7 @@
     "thumbnailImage": "img/Bags/bags08.jpg",
     "actualPrice": 250,
     "comparePrice": null,
-    "inStock": true,
+    "inStock": false,
     "options": {
             "Color": ["White and Green"]
     }
